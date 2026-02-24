@@ -1,0 +1,2 @@
+# AI-Driven-Ventilation-System-using-Machine-Learning
+The ICU Ventilator Assistant is a clinical support system designed to assist healthcare professionals in monitoring and managing mechanical ventilator parameters within intensive care environments. The project focuses on improving patient safety, optimizing ventilator management, and supporting data-driven decision-making in critical care settings.
